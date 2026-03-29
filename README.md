@@ -19,10 +19,6 @@ I build **end-to-end machine learning systems** that solve real-world problems, 
   * Product recommendation system
   * Demand prediction (time-series forecasting)
 
-* 🔹 Deep Learning Roadmap
-
-  * ANN → RNN → LSTM → real-world applications
-
 ---
 
 ## 🛠 Tech Stack
