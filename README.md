@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Surya Pratap Singh
 
-## 🚀 AI / ML Engineer | Data Science Enthusiast
+## 🚀 AI / ML Engineer | Data Scientist
 
 I build **end-to-end machine learning systems** that solve real-world problems, with a focus on:
 
