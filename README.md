@@ -25,7 +25,7 @@ I build **end-to-end machine learning systems** that solve real-world problems, 
 
 * **Languages:** Python, C++
 * **ML/DL:** Scikit-learn, TensorFlow / PyTorch (learning)
-* **Data:** Pandas, NumPy, Matplotlib
+* **Data:** Pandas, NumPy, Matplotlib, SQL
 * **Deployment:** Flask / FastAPI, Render
 * **Tools:** Git, VS Code, Postman
 
